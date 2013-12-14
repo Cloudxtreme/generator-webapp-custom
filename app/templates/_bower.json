@@ -1,0 +1,8 @@
+{
+    "name": "<%= _.slugify(appName) %>",
+    "private": true,
+    "dependencies": {<% if (includeModernizr) { %>
+        "modernizr": ""<% } %>
+    },
+    "devDependencies": {}
+}
