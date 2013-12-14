@@ -26,7 +26,7 @@ Yeoman travels light. He didn't pack any generators when he moved in. You can th
 To install generator-webapp-custom from npm, run:
 
 ```
-$ npm install -g generator-webapp-custom
+$ npm install -g git://github.com/jorrete/generator-webapp-custom.git
 ```
 
 Finally, initiate the generator:
