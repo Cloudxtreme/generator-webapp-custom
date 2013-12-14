@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # generator-webapp-custom [![Build Status](https://secure.travis-ci.org/jorrete/generator-webapp-custom.png?branch=master)](https://travis-ci.org/jorrete/generator-webapp-custom)
 
 A generator for [Yeoman](http://yeoman.io).
@@ -45,3 +46,9 @@ If you'd like to get to know Yeoman better and meet some of his friends, [Grunt]
 ## License
 
 [MIT License](http://en.wikipedia.org/wiki/MIT_License)
+=======
+generator-webapp-custom
+=======================
+
+My simplification of generator-webapp
+>>>>>>> 1fab8942aee42232eb4fbac9d99535b6b879441f
