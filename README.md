@@ -1,7 +1,7 @@
 generator-webapp-custom
 =======================
 
-My simplification of generator-webapp
+My simplification of generator-webapp.
 
 ## License
 
